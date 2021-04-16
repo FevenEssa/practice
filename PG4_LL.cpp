@@ -295,7 +295,6 @@ int main()
     
     cout<<"\nThis LL program is implemented by: "<<endl;
     cout<<"Feven Essa - March 31, 2021"<<endl<<endl;
-    cout<<"***********************************************************"<<endl;
 
     return 0;
 }
